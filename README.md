@@ -71,8 +71,15 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=duprp&show_icons=true&theme=transparent&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duprp&layout=compact&theme=transparent&locale=pt-br" alt="Linguagens mais usadas">
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Detalhes do perfil">
+</p>
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/transparent/3-stats.svg" alt="Estatísticas do GitHub">
+  <img height="170" src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Repositórios por linguagem">
+  <img height="170" src="./profile-summary-card-output/transparent/2-most-commit-language.svg" alt="Linguagens com mais commits">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=duprp&theme=transparent&locale=pt_BR" alt="Sequência de contribuições">
 </p>
 
 <p align="center"><i>Todo sistema quebrado tem uma causa. Meu trabalho é encontrá-la. 🔍</i></p>
